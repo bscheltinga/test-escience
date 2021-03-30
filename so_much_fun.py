@@ -3,4 +3,4 @@ def so_much_fun():
 
 
 def so_much_more_fun():
-  print("How do robots eat guacamole? With computer chips.”")
+  print("How do robots eat guacamole? With computer chips.")
